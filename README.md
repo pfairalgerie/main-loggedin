@@ -176,7 +176,7 @@
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSU6jRU8JJxhzyL3fPdLJoVWvxGWTxCGp31fw0HexZLQc0TQ/viewform?usp=header">Become a Pilot</a>
       <a href="mailto:pfairalgerievirtual@gmail.com">Contact</a>
         <a href="https://discord.gg/ZmpVNbRecK" target="_blank">Discord</a>
-        <a href="xxxxxxxxxxxxxxxxxxxxxxxxxx" targer="_blank">Server's Rules</a>
+        <a href="https://pfairalgerie.github.io/rules/" targer="_blank">Server's Rules</a>
     </div>
   </nav>
 
