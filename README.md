@@ -172,7 +172,7 @@
           <img src="https://cdn.discordapp.com/attachments/1377572968766636084/1378723450352570408/IMG_1513.png?ex=68498146&is=68482fc6&hm=765d245a39ec43facee5887a97831bb2b81dbdee74d55dbeca063f38a5caeaf3&" alt="Air Algérie Logo" style="height: 100px; vertical-align: middle;">
     </div>
     <div class="menu">
-      <a href="#about">About</a>
+      <a href="https://pfairalgerie.github.io/about-us">About us</a>
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSU6jRU8JJxhzyL3fPdLJoVWvxGWTxCGp31fw0HexZLQc0TQ/viewform?usp=header">Become a Pilot</a>
       <a href="mailto:pfairalgerievirtual@gmail.com">Contact</a>
         <a href="https://discord.gg/ZmpVNbRecK" target="_blank">Discord</a>
