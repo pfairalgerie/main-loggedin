@@ -218,7 +218,6 @@
       <li><a href="https://pfairalgerie.github.io/rules/">Server's Rules</a></li>
     </ul>
     <div class="auth-buttons">
-    <a class="btn-login" href="https://discord.com/oauth2/authorize?client_id=1378686356590559343&response_type=code&redirect_uri=https%3A%2F%2Fpfairalgerie.github.io%2Fmainloggedin%2F&scope=identify">Login with <strong>Discord</strong></a>
     <a class="btn-register" href="https://discord.gg/ZmpVNbRecK">Join Now !</a>
 </div>
   </nav>
